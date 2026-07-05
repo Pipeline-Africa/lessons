@@ -1,0 +1,16 @@
+product_id,product_name,category,price,cost
+1,Laptop,Electronics,1200.00,800.00
+2,Wireless Headphones,Electronics,150.00,80.00
+3,Gaming Mouse,Electronics,35.00,15.00
+4,Mechanical Keyboard,Electronics,75.00,40.00
+5,27-inch Monitor,Electronics,400.00,250.00
+6,Cotton T-Shirt,Clothing,25.00,8.00
+7,Slim-Fit Jeans,Clothing,60.00,20.00
+8,Winter Jacket,Clothing,120.00,45.00
+9,Running Sneakers,Clothing,90.00,35.00
+10,Zip-up Hoodie,Clothing,50.00,18.00
+11,Coffee Maker,Home & Kitchen,80.00,35.00
+12,High-Speed Blender,Home & Kitchen,65.00,28.00
+13,Desk Lamp,Home & Kitchen,45.00,18.00
+14,Office Chair,Home & Kitchen,250.00,100.00
+15,Standing Desk,Home & Kitchen,350.00,140.00

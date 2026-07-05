@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,city,signup_date
+1,Alice,Johnson,alice.johnson@email.com,New York,2022-01-15
+2,Bob,Smith,bob.smith@email.com,Chicago,2022-02-20
+3,Carol,Williams,carol.williams@email.com,Los Angeles,2022-01-08
+4,David,Brown,david.brown@email.com,Houston,2022-03-14
+5,Emma,Jones,emma.jones@email.com,New York,2022-04-01
+6,Frank,Garcia,frank.garcia@email.com,Phoenix,2022-05-22
+7,Grace,Martinez,grace.martinez@email.com,Chicago,2022-06-11
+8,Henry,Anderson,henry.anderson@email.com,Miami,2022-07-30
+9,Iris,Taylor,iris.taylor@email.com,Seattle,2022-08-15
+10,James,Thomas,james.thomas@email.com,Boston,2022-09-01
+11,Karen,Jackson,karen.jackson@email.com,New York,2022-10-12
+12,Liam,White,liam.white@email.com,Los Angeles,2022-11-05
+13,Mia,Harris,mia.harris@email.com,Chicago,2023-01-14
+14,Nate,Martin,nate.martin@email.com,Houston,2023-02-28
+15,Olivia,Thompson,olivia.thompson@email.com,Miami,2023-03-10
+16,Paul,Garcia,paul.garcia@email.com,Seattle,2023-04-22
+17,Quinn,Martinez,quinn.martinez@email.com,Boston,2023-05-15
+18,Rose,Robinson,rose.robinson@email.com,Phoenix,2023-06-01
+19,Sam,Clark,sam.clark@email.com,New York,2023-07-20
+20,Tina,Lewis,tina.lewis@email.com,Chicago,2023-08-14
