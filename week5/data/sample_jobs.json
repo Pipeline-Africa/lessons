@@ -1,0 +1,61 @@
+{
+  "source": "afritech-jobs",
+  "scraped_at": "2026-03-07T08:15:00Z",
+  "page": 1,
+  "jobs": [
+    {
+      "job_id": 1001,
+      "title": "Data Engineer",
+      "company": { "name": "Paystack", "industry": "Fintech", "size": "201-500" },
+      "location": { "city": "Lagos", "country": "Nigeria", "remote": false },
+      "salary": { "min": 45000, "max": 60000, "currency": "USD" },
+      "tags": ["python", "sql", "airflow"],
+      "posted": "2026-03-02"
+    },
+    {
+      "job_id": 1002,
+      "title": "Analytics Engineer",
+      "company": { "name": "Flutterwave", "industry": "Fintech", "size": "501-1000" },
+      "location": { "city": null, "country": null, "remote": true },
+      "salary": null,
+      "tags": ["dbt", "sql"],
+      "posted": "2026-03-05"
+    },
+    {
+      "job_id": 1003,
+      "title": "Junior Data Analyst",
+      "company": { "name": "M-KOPA", "industry": "Energy", "size": "1001-5000" },
+      "location": { "city": "Nairobi", "country": "Kenya", "remote": false },
+      "salary": { "min": 18000, "max": 24000, "currency": "USD" },
+      "tags": ["excel", "sql", "power-bi"],
+      "posted": "2026-02-27"
+    },
+    {
+      "job_id": 1004,
+      "title": "Senior Data Engineer",
+      "company": { "name": "Andela", "industry": "Talent", "size": "501-1000" },
+      "location": { "city": null, "country": null, "remote": true },
+      "salary": { "min": 70000, "max": 95000, "currency": "USD" },
+      "tags": ["python", "spark", "aws", "kafka"],
+      "posted": "2026-03-06"
+    },
+    {
+      "job_id": 1005,
+      "title": "BI Developer",
+      "company": { "name": "Jumia", "industry": "E-commerce", "size": "1001-5000" },
+      "location": { "city": "Accra", "country": "Ghana", "remote": false },
+      "salary": { "min": 30000, "max": 40000, "currency": "USD" },
+      "tags": ["power-bi", "sql"],
+      "posted": "2026-03-01"
+    },
+    {
+      "job_id": 1006,
+      "title": "ETL Developer",
+      "company": { "name": "Safaricom", "industry": "Telecoms", "size": "5001+" },
+      "location": { "city": "Nairobi", "country": "Kenya", "remote": false },
+      "salary": null,
+      "tags": ["python", "etl"],
+      "posted": "2026-02-20"
+    }
+  ]
+}

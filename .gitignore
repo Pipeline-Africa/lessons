@@ -1,0 +1,22 @@
+# Secrets — never commit these
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Pipeline artifacts — regenerate them by running the notebooks
+**/logs/
+**/data/raw/
+**/data/raw_html/
+**/data/screenshots/
+**/data/formats/
+**/data/exercises/
+
+# OS
+.DS_Store
